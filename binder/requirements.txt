@@ -1,5 +1,8 @@
 traitlets>=4.3.1
 matlab
+sympy
+matplotlib
+pylab
 ipython
 pandas
 scipy
