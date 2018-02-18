@@ -7,5 +7,5 @@ sklearn
 sympy
 matplotlib
 seaborn
-vdom
+nltk
 jupyterlab_launcher>=0.5.0
