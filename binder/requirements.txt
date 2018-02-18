@@ -1,11 +1,12 @@
 traitlets>=4.3.1
 matlab
+ipython
+numpy
+scipy
+pandas
+sklearn
 sympy
 matplotlib
-pylab
-ipython
-pandas
-scipy
-sklearn
+seaborn
 vdom
 jupyterlab_launcher>=0.5.0
