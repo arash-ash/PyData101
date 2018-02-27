@@ -1,7 +1,11 @@
 traitlets>=4.3.1
 ipython
-pandas
+numpy
 scipy
+pandas
 sklearn
-vdom
+sympy
+matplotlib
+seaborn
+nltk
 jupyterlab_launcher>=0.5.0
