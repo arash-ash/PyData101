@@ -1,3 +1,1 @@
 #!/bin/bash
-
-jupyter labextension install @jupyterlab/geojson-extension jupyterlab-drawio
