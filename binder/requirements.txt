@@ -8,4 +8,10 @@ sympy
 matplotlib
 seaborn
 nltk
+sqlite
+urllib
+zlib
+ssl
+urlparse
+re
 jupyterlab_launcher>=0.5.0
